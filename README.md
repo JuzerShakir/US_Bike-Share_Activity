@@ -15,15 +15,15 @@ I will also see if there are any differences within each system for those users 
 
 ### Data for analysis
 
-The data files for this analysis is in the above `data/'` folder containing three csv files of the cities to be analyzed. Each of these cities has a page where we can freely download the trip data.:
+<p>The data files for this analysis is in the above `data/'` folder containing three csv files of the cities to be analyzed. Each of these cities has a page where we can freely download the trip data.:
 
 New York City (Citi Bike): <a href = 'https://www.citibikenyc.com/system-data'>Link</a>
 Chicago (Divvy): <a href = 'https://www.divvybikes.com/system-data'>Link</a>
 Washington DC (Capital Bikeshare): <a href = 'https://www.capitalbikeshare.com/system-data'>Link</a>
 
-While the original data for 2016 is spread among multiple files for each city, the files in the `data/` folder collect all of the trip data for the year into one file per city. Some data wrangling of inconsistencies in timestamp format within each city has already been performed. In addition, a random 2% sample of the original data is taken to make the exploration more manageable.
+While the original data for 2016 is spread among multiple files for each city, the files in the `data/` folder collect all of the trip data for the year into one file per city. Some data wrangling of inconsistencies in timestamp format within each city has already been performed. In addition, a random 2% sample of the original data is taken to make the exploration more manageable.</p>
 
 
 
 ### To keep in mind
-**The project is guiding me/you through each step and process of code of what has to be done and what the results interpret.**
+**The project is guiding me/you through each step and process of code of what has to be done and what the results interpret. The answer to those questions are however solved by me.**
