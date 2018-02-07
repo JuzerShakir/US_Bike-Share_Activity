@@ -6,8 +6,14 @@
 ## My first project of Machine Learning Foundation Nanodegree. A part of Data Analyst Nanodegree program.
 
 <br>
+<br>
 
-![US_Bike_Ride_System](http://mediad.publicbroadcasting.net/p/kuow/files/201302/7450190892_f643f4b25c.jpg)
+<p align="center">
+  <img src="http://mediad.publicbroadcasting.net/p/kuow/files/201302/7450190892_f643f4b25c.jpg">
+</p>
+
+<br>
+<br>
 
 ### Introduction
 
