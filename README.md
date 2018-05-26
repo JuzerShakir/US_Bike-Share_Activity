@@ -1,19 +1,9 @@
-# Exploring US Bikeshare Data
+# My First Project in Machine Learning Foundation Nanodegree
+# Data Analysis
+## Project: Exploring US Bikeshare Data 
 
-<br>
-<br>
+<p align="center"><img src="US_Bike-share_logo.jpg"></p>
 
-## My first project of Machine Learning Foundation Nanodegree. A part of Data Analyst Nanodegree program.
-
-<br>
-<br>
-
-<p align="center">
-  <img src="http://mediad.publicbroadcasting.net/p/kuow/files/201302/7450190892_f643f4b25c.jpg">
-</p>
-
-<br>
-<br>
 
 ### Introduction
 
