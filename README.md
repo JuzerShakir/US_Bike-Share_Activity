@@ -49,15 +49,13 @@ If you are not familiar with the data analysis process, this project will be you
 
 #### Files
 
-This project contains 1 file and 2 folders:
+This project contains 1 file and 3 folders:
 - `US_Bike-Share_Analysis.ipynb`: This is the main file where I have performed my work on the project.
 - `data/` : Folder containing 3 csv files of the cities that needs to be analyzed.
 - `output/` : Folder containing clean data files.
+- `export/` : Cotaining files of HTML and PDF version of notebook file.
 
 Some code has already been implemented in `US_Bike-Share_Analysis notebook file` to get me started, I will need to implement additional functionality when requested to successfully complete the project. 
-
-- `US_Bike-Share_Analysis.html` : HTML version of `US_Bike-Share_Analysis.ipynb` notebook file.
-- `US_Bike-Share_Analysis.pdf` : PDF version of `US_Bike-Share_Analysis.ipynb` notebook file.
 
 #### Dataset file
 
