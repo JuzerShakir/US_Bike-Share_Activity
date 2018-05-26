@@ -94,11 +94,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `US_Bike-Share_Activity/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook Finding_Donors.ipynb
+ipython notebook US_Bike-Share_Analysis.ipynb
 ```  
 or
 ```bash
-jupyter notebook Finding_Donors.ipynb
+jupyter notebook US_Bike-Share_Analysis.ipynb
 ```
 
 This will open the Jupyter/iPython Notebook software and project file in your browser.
