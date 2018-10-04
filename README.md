@@ -50,7 +50,7 @@ If you are not familiar with the data analysis process, this project will be you
 #### Files
 
 This project contains 1 file and 3 folders:
-- `US_Bike-Share_Analysis.ipynb`: This is the main file where I have performed my work on the project.
+- `report.ipynb`: This is the main file where I have performed my work on the project.
 - `data/` : Folder containing 3 csv files of the cities that needs to be analyzed.
 - `output/` : Folder containing data files required for Exploratory Data Analysis.
 - `export/` : Folder containing HTML and PDF file of notebook.
@@ -92,11 +92,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `US_Bike-Share_Activity/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook US_Bike-Share_Analysis.ipynb
+ipython notebook report.ipynb
 ```  
 or
 ```bash
-jupyter notebook US_Bike-Share_Analysis.ipynb
+jupyter notebook report.ipynb
 ```
 
 This will open the Jupyter/iPython Notebook software and project file in your browser.
