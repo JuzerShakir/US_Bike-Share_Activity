@@ -51,24 +51,24 @@ If you are not familiar with the data analysis process, this project will be you
 
 This project contains 1 file and 3 folders:
 - `report.ipynb`: This is the main file where I have performed my work on the project.
-- `data/` : Folder containing 3 csv files of the cities that needs to be analyzed.
-- `output/` : Folder containing data files required for Exploratory Data Analysis.
+- `input_data/` : Folder containing 3 csv files of the cities that needs to be analyzed.
+- `output_data/` : Folder containing data files required for Exploratory Data Analysis.
 - `export/` : Folder containing HTML and PDF file of notebook.
 - `plots/` : Contains images of all the plots that are displayed in `report.ipynb` file.
 
-Some code has already been implemented in `US_Bike-Share_Analysis notebook file` to get me started, I will need to implement additional functionality when requested to successfully complete the project. 
+Some code has already been implemented in `report.ipynb file` to get me started, I will need to implement additional functionality when requested to successfully complete the project. 
 
 #### Dataset file
 
-The data files for this analysis is in the `data/` folder containing three csv files of the cities to be analyzed. Each of these cities has a page where we can freely download the trip data.:
+The data files for this analysis is in the `input_data/` folder containing three csv files of the cities to be analyzed. Each of these cities has a page where we can freely download the trip data.:
 
 New York City (Citi Bike): [Link](https://www.citibikenyc.com/system-data)<br>
 Chicago (Divvy): [Link](https://www.divvybikes.com/system-data)<br>
 Washington DC (Capital Bikeshare): [Link](https://www.capitalbikeshare.com/system-data)<br>
 
-While the original data for 2016 is spread among multiple files for each city, the files in the `data/` folder collect all of the trip data for the year into one file per city. Some data wrangling of inconsistencies in timestamp format within each city has already been performed. In addition, a random 2% sample of the original data is taken to make the exploration more manageable.
+While the original data for 2016 is spread among multiple files for each city, the files in the `input_data/` folder collect all of the trip data for the year into one file per city. Some data wrangling of inconsistencies in timestamp format within each city has already been performed. In addition, a random 2% sample of the original data is taken to make the exploration more manageable.
 
-After data wrangling process of the data files, the files are then saved to `output/` folder.
+After data wrangling process of the data files, the files are then saved to `output_data/` folder.
 
 -----
 
