@@ -2,7 +2,7 @@
 # Data Analysis
 ## Project: Exploring US Bikeshare Data 
 
-<p align="center"><img src="US_Bike-share_logo.jpg"></p>
+<p align="center"><img src="logo.jpg"></p>
 
 ----
 
