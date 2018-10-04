@@ -54,6 +54,7 @@ This project contains 1 file and 3 folders:
 - `data/` : Folder containing 3 csv files of the cities that needs to be analyzed.
 - `output/` : Folder containing data files required for Exploratory Data Analysis.
 - `export/` : Folder containing HTML and PDF file of notebook.
+- `plots/` : Contains images of all the plots that are displayed in `report.ipynb` file.
 
 Some code has already been implemented in `US_Bike-Share_Analysis notebook file` to get me started, I will need to implement additional functionality when requested to successfully complete the project. 
 
